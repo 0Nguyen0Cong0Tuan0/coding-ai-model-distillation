@@ -1,0 +1,15 @@
+`loss_type=None` was set in the config but it is unrecognised.Using the default loss: `ForCausalLMLoss`.
+distilled_small-model_t2.0_a0.5 Epoch 0: Train Loss 2265.7756 | Distillation Loss 4521.3132 | CE Loss 10.2381 | Time 80.97s
+distilled_small-model_t2.0_a0.5 Epoch 0: Val Loss 3014.8203 | Val Distillation Loss 6019.2226 | Val CE Loss 10.4179
+distilled_small-model_t2.0_a0.5 Epoch 1: Train Loss 1929.0556 | Distillation Loss 3848.1221 | CE Loss 9.9892 | Time 85.78s
+distilled_small-model_t2.0_a0.5 Epoch 1: Val Loss 2792.0194 | Val Distillation Loss 5574.1185 | Val CE Loss 9.9203
+distilled_small-model_t2.0_a0.5 Epoch 2: Train Loss 1682.9010 | Distillation Loss 3356.3531 | CE Loss 9.4489 | Time 85.82s
+distilled_small-model_t2.0_a0.5 Epoch 2: Val Loss 2591.0265 | Val Distillation Loss 5172.6037 | Val CE Loss 9.4494
+distilled_small-model_t2.0_a0.5 Epoch 3: Train Loss 1460.2322 | Distillation Loss 2911.5632 | CE Loss 8.9013 | Time 85.72s
+distilled_small-model_t2.0_a0.5 Epoch 3: Val Loss 2409.7352 | Val Distillation Loss 4810.5915 | Val CE Loss 8.8790
+distilled_small-model_t2.0_a0.5 Epoch 4: Train Loss 1268.3444 | Distillation Loss 2528.2800 | CE Loss 8.4089 | Time 85.60s
+distilled_small-model_t2.0_a0.5 Epoch 4: Val Loss 2250.3853 | Val Distillation Loss 4492.2208 | Val CE Loss 8.5497
+distilled_small-model_t2.0_a0.5 Epoch 5: Train Loss 1103.3001 | Distillation Loss 2198.5785 | CE Loss 8.0217 | Time 85.59s
+distilled_small-model_t2.0_a0.5 Epoch 5: Val Loss 2105.5918 | Val Distillation Loss 4203.0042 | Val CE Loss 8.1794
+distilled_small-model_t2.0_a0.5 Epoch 6: Train Loss 961.8803 | Distillation Loss 1916.0619 | CE Loss 7.6988 | Time 85.62s
+distilled_small-model_t2.0_a0.5 Epoch 6: Val Loss 1974.1058 | Val Distillation Loss 3940.3747 | Val CE Loss 7.8368

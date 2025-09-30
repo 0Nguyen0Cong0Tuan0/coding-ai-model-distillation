@@ -1,0 +1,12 @@
+{"time":"2025-09-29T15:05:04.186704387Z","level":"INFO","msg":"main: starting server","port-filename":"/tmp/tmpx7k68zfj/port-36.txt","pid":36,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false,"enable-dcgm-profiling":false}
+{"time":"2025-09-29T15:05:04.210482809Z","level":"INFO","msg":"Will exit if parent process dies.","ppid":36}
+{"time":"2025-09-29T15:05:04.213634485Z","level":"INFO","msg":"server is running","addr":{"IP":"127.0.0.1","Port":35011,"Zone":""}}
+{"time":"2025-09-29T15:05:04.395204347Z","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"127.0.0.1:43536"}
+{"time":"2025-09-29T15:05:04.422947757Z","level":"INFO","msg":"handleInformInit: received","streamId":"s17plxvr","id":"127.0.0.1:43536"}
+{"time":"2025-09-29T15:05:04.680985308Z","level":"INFO","msg":"handleInformInit: stream started","streamId":"s17plxvr","id":"127.0.0.1:43536"}
+{"time":"2025-09-29T15:19:09.23404967Z","level":"INFO","msg":"handleInformFinish: finish message received","streamId":"s17plxvr","id":"127.0.0.1:43536"}
+{"time":"2025-09-29T15:19:09.234213082Z","level":"INFO","msg":"handleInformFinish: stream closed","streamId":"s17plxvr","id":"127.0.0.1:43536"}
+{"time":"2025-09-29T15:19:09.274986333Z","level":"INFO","msg":"handleInformInit: received","streamId":"5cbvkg4c","id":"127.0.0.1:43536"}
+{"time":"2025-09-29T15:19:09.400095011Z","level":"INFO","msg":"handleInformInit: stream started","streamId":"5cbvkg4c","id":"127.0.0.1:43536"}
+{"time":"2025-09-29T16:41:40.411166455Z","level":"INFO","msg":"handleInformFinish: finish message received","streamId":"5cbvkg4c","id":"127.0.0.1:43536"}
+{"time":"2025-09-29T16:41:40.411341787Z","level":"INFO","msg":"handleInformFinish: stream closed","streamId":"5cbvkg4c","id":"127.0.0.1:43536"}
