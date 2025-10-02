@@ -19,12 +19,12 @@ The distillation process related to transfers knowledge from the teacher (soft p
 ## Dataset
 Train dataset information
 - Name: google-research-datasets/mbpp (full).
-- Features: ['task_id', 'text', 'code', 'test_list', 'test_setup_code', 'challenge_test_list'].
+- Features: [`task_id`, `text`, `code`, `test_list`, `test_setup_code`, `challenge_test_list`].
 - Number of rows: 374.
 
 Evaluation dataset information
 - Name: openai/openai_humanevel.
-- Features: ['task_id', 'prompt', 'canonical_solution', 'test', 'entry_point'].
+- Features: [`task_id`, `prompt`, `canonical_solution`, `test`, `entry_point`].
 - Number of rows: 164.
 
 ## The teacher model
