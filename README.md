@@ -61,7 +61,7 @@ Starcoder2ForCausalLM(
 
 ## The student models
 
-Student models:
+*Student models*
 | Name | Architecture | #Params | #Layers | #Embeddings | #Heads | #Positions | 
 | --- | --- | --- | --- | --- | --- | --- |
 | model_44m_t1.5_a0.3 | GPT2-like | 44M |  6 | 512 | 8 | 512 | 
@@ -70,7 +70,7 @@ Student models:
 | model_202m_t2.0_a0.5 | GPT2-like | 202M | 12 | 1024 | 16 | 512 |
 | model_202m_t2.0_a0.7 | GPT2-like | 202M | 12 | 1024 | 16 | 512 | 
 
-Hyperparameters:
+*Hyperparameters*
 | Temperature | Alpha | Epochs |  
 | --- | --- | --- |
 | 1.5 | 0.3 | 7 | 
@@ -92,6 +92,7 @@ Hyperparameters:
 
 ## Results
 | Model | Params (M) | Pass@1 | Pass@10 | BLEU | Avg Latency (s) |
+| --- | --- | --- | ---- | --- | --- |
 | Teacher model (StarCode2-3B) | 3030.371 | 0.05 (avg) | 0.52 (avg) | 0.007923 (avg) | 52.448 |
 | model_t2.0_a0.5 | 202.013 | 0.8 | 1 | 0.01424 | 4.725 |
 | model_t2.0_a0.7 | 202.013 | 1 | 0.95 0.008332 | 4.926 |
