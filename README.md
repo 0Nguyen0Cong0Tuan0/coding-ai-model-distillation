@@ -91,15 +91,17 @@ Starcoder2ForCausalLM(
 - Trying on evaluation on just 20 problems (Because my device does not have enough resources for efficient distillation process).
 
 ## Results
+*Summary*
 | Model | Params (M) | Pass@1 | Pass@10 | BLEU | Avg Latency (s) |
 | --- | --- | --- | ---- | --- | --- |
 | Teacher model (StarCode2-3B) | 3030.371 | 0.05 (avg) | 0.52 (avg) | 0.007923 (avg) | 52.448 |
 | model_t2.0_a0.5 | 202.013 | 0.8 | 1 | 0.01424 | 4.725 |
-| model_t2.0_a0.7 | 202.013 | 1 | 0.95 0.008332 | 4.926 |
+| model_t2.0_a0.7 | 202.013 | 1 | 0.95 | 0.008332 | 4.926 |
 | model_t1.7_a0.6 | 44.343 | 0.5 | 0.95 | 0.01512 | 2.489 | 
 | model_t1.5_a0.3 | 44.343 | 0.95 | 0.95 | 0.01677 | 2.478 |
 | model_t2.0_a0.5 | 44.343 | 1 | 0.9 | 0.02144 | 2.491 |
 
+*Training loss*
 
-
+![]
 
