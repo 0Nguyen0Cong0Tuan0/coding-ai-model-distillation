@@ -15,3 +15,5 @@ The distillation process related to transfers knowledge from the teacher (soft p
     - Hugging Face Transformers/Datasets for model handling and data loading
     - PyTorch or custom training
     - Weights & Biases (W&B) for logging (experiement tracking)
+ 
+![ads](https://wandb.ai/nguyencongtuan/code-distillation?nw=nwusernguyencongtuan0810&panelDisplayName=train_loss&panelSectionName=Charts)
