@@ -10,7 +10,7 @@ The distillation process related to transfers knowledge from the teacher (soft p
 ## My approach
 - Teacher model use a pre-trained model from Hugging Face (bigcode/starcoder2-3b, ~3B parameters).
 - Student model use a small transformer (~44M parameters, like a mini-GPT) built from scratch using Python.
-- Efficiency proof by comparing model size, inference latency, and benchmark scores (pass@1 on HumanEval).
+- Efficiency proof by comparing model size, inference latency, and benchmark scores (pass@1 on HumanEval and BLEU on MBPP).
 - Tools:
     - Hugging Face Transformers/Datasets for model handling and data loading.
     - PyTorch or custom training.
