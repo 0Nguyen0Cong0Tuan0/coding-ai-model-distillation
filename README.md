@@ -16,4 +16,4 @@ The distillation process related to transfers knowledge from the teacher (soft p
     - PyTorch or custom training
     - Weights & Biases (W&B) for logging (experiement tracking)
  
-![ads](https://wandb.ai/nguyencongtuan/code-distillation?nw=nwusernguyencongtuan0810&panelDisplayName=train_loss&panelSectionName=Charts)
+[ads](https://wandb.ai/nguyencongtuan/code-distillation?nw=nwusernguyencongtuan0810&panelDisplayName=train_loss&panelSectionName=Charts)
