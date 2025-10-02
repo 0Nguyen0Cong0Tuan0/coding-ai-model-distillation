@@ -1,0 +1,12 @@
+{"time":"2025-09-30T08:45:59.418850219Z","level":"INFO","msg":"main: starting server","port-filename":"/tmp/tmpwztvupng/port-36.txt","pid":36,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false,"enable-dcgm-profiling":false}
+{"time":"2025-09-30T08:45:59.437032327Z","level":"INFO","msg":"Will exit if parent process dies.","ppid":36}
+{"time":"2025-09-30T08:45:59.438717681Z","level":"INFO","msg":"server is running","addr":{"IP":"127.0.0.1","Port":40299,"Zone":""}}
+{"time":"2025-09-30T08:45:59.486012853Z","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"127.0.0.1:52892"}
+{"time":"2025-09-30T08:45:59.510122698Z","level":"INFO","msg":"handleInformInit: received","streamId":"coi5l2lj","id":"127.0.0.1:52892"}
+{"time":"2025-09-30T08:45:59.667727892Z","level":"INFO","msg":"handleInformInit: stream started","streamId":"coi5l2lj","id":"127.0.0.1:52892"}
+{"time":"2025-09-30T09:04:19.75873438Z","level":"INFO","msg":"handleInformFinish: finish message received","streamId":"coi5l2lj","id":"127.0.0.1:52892"}
+{"time":"2025-09-30T09:04:19.758906854Z","level":"INFO","msg":"handleInformFinish: stream closed","streamId":"coi5l2lj","id":"127.0.0.1:52892"}
+{"time":"2025-09-30T09:04:19.799243147Z","level":"INFO","msg":"handleInformInit: received","streamId":"d7cr6nun","id":"127.0.0.1:52892"}
+{"time":"2025-09-30T09:04:19.919493299Z","level":"INFO","msg":"handleInformInit: stream started","streamId":"d7cr6nun","id":"127.0.0.1:52892"}
+{"time":"2025-09-30T10:28:16.47319001Z","level":"INFO","msg":"handleInformFinish: finish message received","streamId":"d7cr6nun","id":"127.0.0.1:52892"}
+{"time":"2025-09-30T10:28:16.473363779Z","level":"INFO","msg":"handleInformFinish: stream closed","streamId":"d7cr6nun","id":"127.0.0.1:52892"}

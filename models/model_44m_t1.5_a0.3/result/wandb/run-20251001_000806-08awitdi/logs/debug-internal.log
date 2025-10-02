@@ -1,0 +1,15 @@
+{"time":"2025-10-01T00:08:06.997291998Z","level":"INFO","msg":"stream: starting","core version":"0.20.1","symlink path":"/kaggle/working/wandb/run-20251001_000806-08awitdi/logs/debug-core.log"}
+{"time":"2025-10-01T00:08:07.185189965Z","level":"INFO","msg":"stream: created new stream","id":"08awitdi"}
+{"time":"2025-10-01T00:08:07.185226377Z","level":"INFO","msg":"stream: started","id":"08awitdi"}
+{"time":"2025-10-01T00:08:07.185252642Z","level":"INFO","msg":"writer: Do: started","stream_id":"08awitdi"}
+{"time":"2025-10-01T00:08:07.185298385Z","level":"INFO","msg":"handler: started","stream_id":"08awitdi"}
+{"time":"2025-10-01T00:08:07.185343403Z","level":"INFO","msg":"sender: started","stream_id":"08awitdi"}
+{"time":"2025-10-01T00:08:12.891127128Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-10-01T00:17:56.483681466Z","level":"INFO","msg":"stream: closing","id":"08awitdi"}
+{"time":"2025-10-01T00:17:56.483731774Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-10-01T00:17:56.483791704Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-10-01T00:17:56.811765197Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-10-01T00:17:56.916091812Z","level":"INFO","msg":"handler: closed","stream_id":"08awitdi"}
+{"time":"2025-10-01T00:17:56.91613426Z","level":"INFO","msg":"sender: closed","stream_id":"08awitdi"}
+{"time":"2025-10-01T00:17:56.916134996Z","level":"INFO","msg":"writer: Close: closed","stream_id":"08awitdi"}
+{"time":"2025-10-01T00:17:56.916285387Z","level":"INFO","msg":"stream: closed","id":"08awitdi"}

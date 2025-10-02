@@ -1,0 +1,12 @@
+{"time":"2025-10-01T00:18:40.713634072Z","level":"INFO","msg":"main: starting server","port-filename":"/tmp/tmpkddzcivr/port-172.txt","pid":172,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false,"enable-dcgm-profiling":false}
+{"time":"2025-10-01T00:18:40.723107777Z","level":"INFO","msg":"Will exit if parent process dies.","ppid":172}
+{"time":"2025-10-01T00:18:40.723081914Z","level":"INFO","msg":"server is running","addr":{"IP":"127.0.0.1","Port":37735,"Zone":""}}
+{"time":"2025-10-01T00:18:40.890673717Z","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"127.0.0.1:41652"}
+{"time":"2025-10-01T00:18:40.899626374Z","level":"INFO","msg":"handleInformInit: received","streamId":"5xjmwh6x","id":"127.0.0.1:41652"}
+{"time":"2025-10-01T00:18:41.073589857Z","level":"INFO","msg":"handleInformInit: stream started","streamId":"5xjmwh6x","id":"127.0.0.1:41652"}
+{"time":"2025-10-01T00:32:23.608282293Z","level":"INFO","msg":"handleInformFinish: finish message received","streamId":"5xjmwh6x","id":"127.0.0.1:41652"}
+{"time":"2025-10-01T00:32:23.608428958Z","level":"INFO","msg":"handleInformFinish: stream closed","streamId":"5xjmwh6x","id":"127.0.0.1:41652"}
+{"time":"2025-10-01T00:32:23.648763725Z","level":"INFO","msg":"handleInformInit: received","streamId":"pnxii6iv","id":"127.0.0.1:41652"}
+{"time":"2025-10-01T00:32:23.800691724Z","level":"INFO","msg":"handleInformInit: stream started","streamId":"pnxii6iv","id":"127.0.0.1:41652"}
+{"time":"2025-10-01T01:52:43.46560284Z","level":"INFO","msg":"handleInformFinish: finish message received","streamId":"pnxii6iv","id":"127.0.0.1:41652"}
+{"time":"2025-10-01T01:52:43.465876776Z","level":"INFO","msg":"handleInformFinish: stream closed","streamId":"pnxii6iv","id":"127.0.0.1:41652"}

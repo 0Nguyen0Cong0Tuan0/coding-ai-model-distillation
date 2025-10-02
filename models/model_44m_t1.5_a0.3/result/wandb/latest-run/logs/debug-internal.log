@@ -1,0 +1,29 @@
+{"time":"2025-10-01T00:32:23.648856724Z","level":"INFO","msg":"stream: starting","core version":"0.20.1","symlink path":"/kaggle/working/wandb/run-20251001_003223-pnxii6iv/logs/debug-core.log"}
+{"time":"2025-10-01T00:32:23.80066948Z","level":"INFO","msg":"stream: created new stream","id":"pnxii6iv"}
+{"time":"2025-10-01T00:32:23.800686917Z","level":"INFO","msg":"stream: started","id":"pnxii6iv"}
+{"time":"2025-10-01T00:32:23.800697612Z","level":"INFO","msg":"writer: Do: started","stream_id":"pnxii6iv"}
+{"time":"2025-10-01T00:32:23.800712648Z","level":"INFO","msg":"handler: started","stream_id":"pnxii6iv"}
+{"time":"2025-10-01T00:32:23.800727007Z","level":"INFO","msg":"sender: started","stream_id":"pnxii6iv"}
+{"time":"2025-10-01T00:32:29.481962211Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-10-01T00:32:32.007653597Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-10-01T00:32:32.021388746Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-10-01T00:32:32.027055235Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-10-01T00:32:32.029160779Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-10-01T00:32:32.034082717Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-10-01T00:32:32.042780862Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-10-01T00:32:32.048986216Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-10-01T00:32:32.05982211Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-10-01T00:32:32.06685728Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-10-01T01:50:20.572617829Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-10-01T01:50:20.573206433Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-10-01T01:52:41.921576436Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-10-01T01:52:41.926514467Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-10-01T01:52:42.585173342Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-10-01T01:52:42.585232576Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-10-01T01:52:43.358182028Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-10-01T01:52:43.457024483Z","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2025-10-01T01:52:43.465740196Z","level":"INFO","msg":"stream: closing","id":"pnxii6iv"}
+{"time":"2025-10-01T01:52:43.465772346Z","level":"INFO","msg":"handler: closed","stream_id":"pnxii6iv"}
+{"time":"2025-10-01T01:52:43.465795753Z","level":"INFO","msg":"sender: closed","stream_id":"pnxii6iv"}
+{"time":"2025-10-01T01:52:43.465788264Z","level":"INFO","msg":"writer: Close: closed","stream_id":"pnxii6iv"}
+{"time":"2025-10-01T01:52:43.465866386Z","level":"INFO","msg":"stream: closed","id":"pnxii6iv"}
