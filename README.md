@@ -63,7 +63,7 @@ Starcoder2ForCausalLM(
 
 Student models:
 | Name | Architecture | #Params | #Layers | #Embeddings | #Heads | #Positions | 
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- |
 | model_44m_t1.5_a0.3 | GPT2-like | 6 | 512 | 8 | 512 | 44M | 
 | model_44m_t1.7_a0.6 | GPT2-like | 6 | 512 | 8 | 512 | 44M | 
 | model_44m_t2.0_a0.5 | GPT2-like | 6 | 512 | 8 | 512 | 44M |   
