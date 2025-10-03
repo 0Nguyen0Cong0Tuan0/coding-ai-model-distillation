@@ -106,12 +106,12 @@ Starcoder2ForCausalLM(
 
 *Training loss*
 
-| Training Loss | Training Distillation Loss | Training CE Loss |
+| Training loss | Training distillation loss | Training CE loss |
 |---------------|----------------------------|------------------|
 | ![Training Loss](train_eval_result/train_loss.png) | ![Training Distillation Loss](train_eval_result/train_distillation_loss.png) | ![Training CE Loss](train_eval_result/train_ce_loss.png) |
 
 *Evaluation loss*
-| Evaluation Loss | Evaluation Distillation Loss | Evaluation CE Loss |
+| Evaluation loss | Evaluation distillation loss | Evaluation CE loss |
 |---------------|----------------------------|------------------|
 | ![eval_loss](train_eval_result/val_loss.png) | ![eval_disstillation_loss](train_eval_result/val_distillation_loss.png)| ![eval_ce_loss](train_eval_result/val_ce_loss.png) |
 
