@@ -106,14 +106,14 @@ Starcoder2ForCausalLM(
 
 *Training loss*
 
-![train_loss](train_eval_result\train_loss.png)
-![train_disstillation_loss](train_eval_result\train_distillation_loss.png)
-![train_ce_loss](train_eval_result\train_ce_loss.png)
+![train_loss](train_eval_result/train_loss.png)
+![train_disstillation_loss](train_eval_result/train_distillation_loss.png)
+![train_ce_loss](train_eval_result/train_ce_loss.png)
 
 *Evaluation loss*
-![eval_loss](train_eval_result\val_loss.png)
-![eval_disstillation_loss](train_eval_result\val_distillation_loss.png)
-![eval_ce_loss](train_eval_result\val_ce_loss.png)
+![eval_loss](train_eval_result/val_loss.png)
+![eval_disstillation_loss](train_eval_result/val_distillation_loss.png)
+![eval_ce_loss](train_eval_result/val_ce_loss.png)
 
 ## Discussion and Insights
 ***Training process***
